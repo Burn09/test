@@ -9,7 +9,7 @@ a
 fd
 asf
 f
-f
+fnewline
 
 a
 a
