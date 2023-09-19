@@ -14,3 +14,4 @@ print('SOME')
 d = {'fn':'fname', 'ln': 'lname'}
 g = 'asfsdaf'
 l = d['b']
+a = 0
