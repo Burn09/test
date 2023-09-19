@@ -9,9 +9,10 @@ def my_names():
   a = 0
   b = 0
   g = a+b
-  print 'name'
+  print('name')
 's'
 print('SOME')
 d = {'fn':'fname', 'ln': 'lname'}
 g = 'asfsdaf'
-l = d['b']
+d['a'] = g
+'a'
